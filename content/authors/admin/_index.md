@@ -1,37 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Laura O. F. Moraes
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Programa de Engenharia de Sistemas e Computação, Universidade Federal do Rio de Janeiro
+  url: "https://www.cos.ufrj.br/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Science Education
+- Learning Analytics
+- Educational Data Mining
+- Student Performance Prediction
 
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+    institution: Universidade Federal do Rio de Janeiro
+    year: 2020
   - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Universidade Federal do Rio de Janeiro
+    year: 2016
+  - course: BSc in Electronic and Computer Engineering
+    institution: Universidade Federal do Rio de Janeiro
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,26 +42,26 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=Q-TjvoEAAAAJ&hl=pt-BR
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/laura-moraes
+- icon: github
+  icon_pack: fab
+  link: https://github.com/lauramoraes
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,6 +70,12 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Laura O. F. Moraes is co-founder of the data science start-up Twist and a master and
+doctoral student in Systems and Computer Engineering at COPPE / UFRJ in
+Artificial Intelligence research field. Graduated in Electronic and Computer Engineering from
+the Federal University of Rio de Janeiro, she also participated as a software engineer in the
+UFRJ-CERN collaboration for more than 4 years. In 2018, she was a fellow in the
+Data Science for Social Good program from the University of Chicago that took
+place at Nova School of Business and Economics. In 2019, she was invited to
+present her doctoral research at the 2nd EPFL Engineering PhD Summit in
+Switzerland. She lectures the Data Clustering course at the MBA in Big Data & Analytics at Fundação Getúlio Vargas.
